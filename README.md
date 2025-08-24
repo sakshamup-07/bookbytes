@@ -20,7 +20,7 @@ Built with **MongoDB, Express, React, Node.js** and styled using **TailwindCSS**
 ## 🛠️ Tech Stack  
 
 ### Frontend  
-- ⚛️ React 18  
+- ⚛️ React 
 - 🎨 TailwindCSS  
 - 📡 Axios (API calls)  
 - 🎭 React Router DOM  
